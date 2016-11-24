@@ -1,0 +1,13 @@
+header{
+    text-align:center;
+ background:url("http://d.adroll.com/cm/r/out");
+    background-size :cover;
+    background-position:center;
+    color:white;
+    padding:0px;
+    margin:0px;
+}
+
+h1{
+    font-size: 70px;
+}

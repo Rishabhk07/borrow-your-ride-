@@ -1,0 +1,22 @@
+header{
+    text-align:center;
+ background:url("http://searchengineland.com/figz/wp-content/seloads/2014/08/maps-local-search1-ss-1920-800x450.jpg");
+    background-size :cover;
+    background-position:center;
+    color:white;
+    padding:0px;
+    margin:0px;
+}
+
+h1{
+    font-size: 70px;
+}
+form{
+	text-align:center;
+	border:10px solid grey ;
+	margin:0;
+	padding: 10px;
+}
+input{
+	display:inline;
+}

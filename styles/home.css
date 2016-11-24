@@ -1,0 +1,121 @@
+html{
+    margin: 0;
+    padding:0;
+}
+body{
+    margin:0px;
+    padding:0px;
+}
+
+header{
+    text-align:center;
+    
+    background:url("http://www.walloza.com/tat_uploads/7408-download-mountains-roads-hd-wallpaper.jpg");
+
+    background-size: cover;
+    background-position:center;
+
+    color:white;
+    padding: 0;
+    margin: 0;
+
+}
+
+.all_black{
+    background: rgba(0,0,0,0.5);
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 0px;
+    padding-top: 130px;
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+}
+form{
+	text-align:center;
+	
+	margin:0;
+	padding: 10px;
+}
+input{
+	display:inline;
+    border:10px solid grey ;
+    padding: 5px;
+    margin: 0px;
+    margin-right: 0px;
+}
+
+input[type = "submit"]{
+    background:green;
+    color:white;
+    border:0;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3{
+
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+h4{
+    background-color: grey;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: 1000px;
+    margin-right:200px;  
+}
+a{
+    color:white;
+}
+.first{
+    padding: 0px;
+    margin: 0px;
+    background: grey;
+    padding-left: 700px;
+}
+li{
+    display:inline;
+    padding: 0px 10px 0px 0px;
+    font-size: 25px;
+    padding-bottom: 5px;
+    padding: auto;
+    font-family: 'Roboto', sans-serif;
+}
+.apps{
+    height: 30px;
+}
+.heading{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    color:grey;
+    padding: 10px;
+
+}
+.heading_2{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    color:grey;
+    padding: 20px;
+}
+.step_head{
+    display:inline;
+    padding : 0px 50px 0px 0px;
+    font-size: 15px;
+    padding-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+
+}
+.head{
+    background:white;
+    margin-left:0px auto;
+    padding-left: 100px;
+    text-align: center;
+    color:grey;
+}
